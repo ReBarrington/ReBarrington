@@ -3,12 +3,12 @@
 
 <h2 align="center"> 👋 Hello world, I'm Reagan. </h2>
 
-![My Github stats](https://github-readme-stats.vercel.app/api?username=ReBarrington&show_icons=true)
-
-
 <p align="center">
 I'm a full stack web developer, artist, and equestrian. Cheers! ☕
 </p>
+
+![My Github stats](https://github-readme-stats.vercel.app/api?username=ReBarrington&show_icons=true)
+
 
 ## 📫 Contact Me
 - Website - [reaganbarrington.com](https://reaganbarrington.com)
