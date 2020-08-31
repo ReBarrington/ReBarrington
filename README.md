@@ -2,10 +2,11 @@
 <img align="right" src="https://raw.githubusercontent.com/ReBarrington/ReBarrington/master/imgs/reagan_code2.png" alt="Reagan">
 
 <h2 align="center"> 👋 Hello world, I'm Reagan. </h2>
+<br>
 
 <p align="center">
-I'm a full stack web developer, artist, and equestrian. Cheers! ☕
-</p>
+I'm a full stack web developer, artist, and equestrian. </p>
+<p align="center"> Cheers! ☕ </p>
 
 ![My Github stats](https://github-readme-stats.vercel.app/api?username=ReBarrington&show_icons=true)
 
