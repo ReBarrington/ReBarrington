@@ -1,4 +1,4 @@
-<h3 align="center"> 👋 Hi there, I'm Reagan. </h3>
+<h2 align="center"> 👋 Hi there, I'm Reagan. </h2>
 
 <img src="https://raw.githubusercontent.com/ReBarrington/ReBarrington/master/imgs/reagan_code.png" alt="Reagan">
 
