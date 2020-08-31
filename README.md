@@ -1,6 +1,6 @@
 ### 👋 Hi there, I'm Reagan. 
 
-<img src="/imgs/reagan_code.png" alt="Reagan Barrington">
+<img src="../imgs/reagan_code.png" alt="Reagan Barrington">
 
 
 <!--
