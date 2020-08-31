@@ -1,9 +1,13 @@
-<h2 align="center"> 👋 Hi there, I'm Reagan. </h2>
+<h2 align="center"> Hello world, I'm Reagan. </h2>
 
 <img src="https://raw.githubusercontent.com/ReBarrington/ReBarrington/master/imgs/reagan_code.png" alt="Reagan">
 
 <p align="center">
-I'm a full stack developer, artist, and equestrian. Cheers! ☕
+I'm a full stack web developer, artist, and equestrian. Cheers! ☕
+</p>
+
+<p align="center">
+I am currently a student at Lambda School. Take a look at my projects!
 </p>
 
 <p  align="center">
