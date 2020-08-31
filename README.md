@@ -1,6 +1,14 @@
 # 👋 Hi there, I'm Reagan. 
+
 <img src="https://raw.githubusercontent.com/ReBarrington/ReBarrington/master/imgs/reagan_code.png" alt="Reagan">
 
+<p align="center">
+I'm a full stack developer, artist, and equestrian. Cheers! ☕
+</p>
+
+<p  align="center">
+<a href="https://ReBarrington.github.io/">https://ReBarrington.github.io</a>
+</p>
 
 <!--
 **ReBarrington/ReBarrington** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
