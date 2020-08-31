@@ -6,13 +6,11 @@
 I'm a full stack web developer, artist, and equestrian. Cheers! ☕
 </p>
 
-<p align="center">
-I am currently a student at Lambda School. Take a look at my projects!
-</p>
 
-<p  align="center">
-<a href="https://ReBarrington.github.io/">https://ReBarrington.github.io</a>
-</p>
+## 📫 Contact Me
+- Website - [reaganbarrington.com](https://reaganbarrington.com)
+- LinkedIn - [Reagan Barrington](https://in.linkedin.com/in/reaganbarrington)
+
 
 <!--
 **ReBarrington/ReBarrington** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
