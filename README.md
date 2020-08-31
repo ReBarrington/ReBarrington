@@ -1,4 +1,4 @@
-<img src="../imgs/reagan_code.png" alt="Reagan Barrington">
+<img src="https://raw.githubusercontent.com/ReBarrington/ReBarrington/master/imgs/reagan_code.png" alt="Reagan">
 ### 👋 Hi there, I'm Reagan. 
 
 <!--
