@@ -2,11 +2,12 @@
 
 <img align="right" src="https://raw.githubusercontent.com/ReBarrington/ReBarrington/master/imgs/reagan_code2.png" alt="Reagan">
 
+![My Github stats](https://github-readme-stats.vercel.app/api?username=ReBarrington&show_icons=true)
+
+
 <p align="center">
 I'm a full stack web developer, artist, and equestrian. Cheers! ☕
 </p>
-
-![My Github stats](https://github-readme-stats.vercel.app/api?username=ReBarrington&show_icons=true)
 
 ## 📫 Contact Me
 - Website - [reaganbarrington.com](https://reaganbarrington.com)
