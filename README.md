@@ -8,7 +8,7 @@
 I'm a full stack web developer, artist, and equestrian. </p>
 <p align="center"> Cheers! ☕ </p>
 
-![My Github stats](https://github-readme-stats.vercel.app/api?username=ReBarrington&show_icons=true)
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=ReBarrington&show_icons=true" alt="github stats">
 
 
 ## 📫 Contact Me
