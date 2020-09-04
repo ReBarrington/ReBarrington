@@ -1,5 +1,5 @@
 
-<img align="right" src="https://raw.githubusercontent.com/ReBarrington/ReBarrington/master/imgs/reagan_code2.png" alt="Reagan">
+<img align="right" src="https://raw.githubusercontent.com/ReBarrington/ReBarrington/master/imgs/reagan_code.png" alt="Reagan">
 
 <h2 align="center"> 👋 Hello world, I'm Reagan. </h2>
 <br>
