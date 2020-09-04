@@ -1,4 +1,4 @@
-
+<br>
 <img align="right" src="https://raw.githubusercontent.com/ReBarrington/ReBarrington/master/imgs/reagan_code.png" width="300" height="238" padding-top="10" alt="Reagan">
 
 <h2 align="center"> 👋 Hello world, I'm Reagan. </h2>
