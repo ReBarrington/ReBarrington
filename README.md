@@ -16,10 +16,10 @@ I'm a full stack web developer, artist, and equestrian. </p>
 - LinkedIn - [Reagan Barrington](https://in.linkedin.com/in/reaganbarrington)
 <br>
 <p align="center">
-👩🏻‍💻 I’m currently working on: 
+👩🏻‍💻 I’m currently working on: </p>
   - CharacterKeeper, an app to improve reading comprehension by mapping characters.
   - Learning Django
-</p>
+
 
 <!--
 **ReBarrington/ReBarrington** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
