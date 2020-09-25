@@ -15,7 +15,7 @@ I'm a full stack web developer, artist, and equestrian. </p>
 - Website - [reaganbarrington.com](https://reaganbarrington.com)
 - LinkedIn - [Reagan Barrington](https://in.linkedin.com/in/reaganbarrington)
 
-## 👩🏻‍💻 I’m currently working on: 
+## 👩🏻‍💻 Currently Working On
 - CharacterKeeper, an app to improve reading comprehension by mapping characters.</li>
 - Learning Django
 
