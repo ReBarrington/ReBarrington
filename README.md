@@ -9,6 +9,7 @@ I'm a full stack web developer, artist, and equestrian. </p>
 <p align="center"> Cheers! ☕ </p>
 
 ![My Github stats](https://github-readme-stats.vercel.app/api?username=ReBarrington&show_icons=true)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ReBarrington)](https://github.com/ReBarrington/github-readme-stats)
 
 
 ## 📫 Contact Me
