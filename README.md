@@ -17,8 +17,10 @@ I'm a full stack web developer, artist, and equestrian. </p>
 <br>
 <p align="center">
 👩🏻‍💻 I’m currently working on: </p>
-  - CharacterKeeper, an app to improve reading comprehension by mapping characters.
-  - Learning Django
+<ul>
+  <li>CharacterKeeper, an app to improve reading comprehension by mapping characters.</li>
+  <li>Learning Django</li>
+ </ul>
 
 
 <!--
