@@ -17,8 +17,8 @@ I'm a full stack web developer, artist, and equestrian. </p>
 
 ## 👩🏻‍💻 Current Work
 - CharacterKeeper, an app to improve reading comprehension by mapping characters.</li>
+- Classic Tic-tac-toe in React
 - Learning Angular
-- Tic-tac-toe in React
 
 <!--
 **ReBarrington/ReBarrington** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
