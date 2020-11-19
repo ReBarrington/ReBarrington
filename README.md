@@ -17,6 +17,8 @@ I'm a full stack web developer, artist, and equestrian. </p>
 
 ## 👩🏻‍💻 Current Work
 - Learning Angular
+- Learning Wagtail Headless CMS (fetching from the v2 API)
+
 
 <!--
 **ReBarrington/ReBarrington** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
