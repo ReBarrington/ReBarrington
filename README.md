@@ -16,7 +16,7 @@ I'm a full stack web developer, artist, and equestrian. </p>
 - LinkedIn - [Reagan Barrington](https://in.linkedin.com/in/reaganbarrington)
 
 ## 👩🏻‍💻 Current Work
-- Learning Angular
+- Learning AWS
 - Learning Wagtail Headless CMS (fetching from the v2 API)
 
 
