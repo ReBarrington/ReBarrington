@@ -23,8 +23,7 @@ I'm a full stack web developer, artist, and equestrian. </p>
 <!--
 **ReBarrington/ReBarrington** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ReBarrington)](https://github.com/ReBarrington/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ReBarrington&title_color=58A6FF&icon_color=8B949E&text_color=8B949E&bg_color=0D1117&show_icons=true)](https://github.com/ReBarrington/github-readme-stats)
 
 Here are some ideas to get you started:
 
