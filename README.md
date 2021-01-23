@@ -17,7 +17,8 @@ I'm a full stack web developer, artist, and equestrian. </p>
 
 ## 👩🏻‍💻 Current Work
 - Learning AWS
-- Learning Wagtail Headless CMS (fetching from the v2 API)
+- Learning Serverless Framework
+- Learning MSAL
 
 
 <!--
