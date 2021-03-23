@@ -19,6 +19,7 @@ I'm a full stack web developer, artist, and equestrian. </p>
 - Learning AWS
 - Learning FireBase
 - Learning Terraform
+- C# / .NET
 
 
 <!--
