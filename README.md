@@ -5,7 +5,7 @@
 <br>
 
 <p align="center">
-I'm a software engineer at Kingsmen. </p>
+Thanks for stopping by. </p>
 <p align="center"> Cheers! ☕ </p>
 
 ![My Github stats](https://github-readme-stats.vercel.app/api?username=ReBarrington&title_color=58A6FF&icon_color=8B949E&text_color=8B949E&bg_color=0D1117&show_icons=true)
