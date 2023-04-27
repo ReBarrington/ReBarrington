@@ -1,10 +1,10 @@
 <br>
-<h2 align="center"> 👋 Hello world, I'm Reagan. </h2>
+<h2> 👋 Hello world, I'm Reagan. </h2>
 <br>
 
-<p align="center">
+<p>
 Thanks for stopping by. </p>
-<p align="center"> Cheers! ☕ </p>
+<p> Cheers! ☕ </p>
 
 ![My Github stats](https://github-readme-stats.vercel.app/api?username=ReBarrington&title_color=58A6FF&icon_color=8B949E&text_color=8B949E&bg_color=0D1117&show_icons=true)
 
