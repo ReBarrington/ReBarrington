@@ -10,7 +10,6 @@ Thanks for stopping by. </p>
 
 
 ## 📫 Contact Me
-- Website - [reaganbarrington.com](https://reaganbarrington.com)
 - LinkedIn - [Reagan Barrington](https://in.linkedin.com/in/reaganbarrington)
 
 ## 👩🏻‍💻 Current Work
