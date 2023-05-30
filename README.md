@@ -6,15 +6,12 @@
 Thanks for stopping by. </p>
 <p> Cheers! ☕ </p>
 
-![My Github stats](https://github-readme-stats.vercel.app/api?username=ReBarrington&title_color=58A6FF&icon_color=8B949E&text_color=8B949E&bg_color=0D1117&show_icons=true)
-
-
 ## 📫 Contact Me
 - LinkedIn - [Reagan Barrington](https://in.linkedin.com/in/reaganbarrington)
 
 ## 👩🏻‍💻 Current Work
-- Learning LangChain
-- Learning Vector DBs
+- LangChain
+- Vector DBs
 
 
 <!--
