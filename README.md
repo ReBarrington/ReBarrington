@@ -1,30 +1,14 @@
-<br>
-<h2> 👋 Hello world, I'm Reagan. </h2>
-<br>
+# 👋 Hello world, I'm Reagan!
 
-<p>
-Thanks for stopping by. </p>
-<p> Cheers! ☕ </p>
+Welcome to my GitHub! I'm a software engineer with an interest in AI solutions. 
 
-## 📫 Contact Me
-- LinkedIn - [Reagan Barrington](https://in.linkedin.com/in/reaganbarrington)
+When I'm not coding, you might find me on my horse or enjoying a good cup of coffee ☕.
 
-## 👩🏻‍💻 Current Work
-- LangChain
-- Vector DBs
+## 📫 Reach Out
+- [LinkedIn](https://in.linkedin.com/in/reaganbarrington)
 
+## 👩🏻‍💻 What I'm Working On
+- Enhancing applications with genAI
+- Exploring the potential of Vector DBs
 
-<!--
-**ReBarrington/ReBarrington** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Thanks for stopping by, and cheers to collaboration and innovation!
